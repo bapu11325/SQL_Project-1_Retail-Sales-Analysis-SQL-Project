@@ -1,5 +1,6 @@
-SQL Project – Retail Sales Analysis
-Author - Bapu Bordekar 
+**SQL Project – Retail Sales Analysis**
+
+**Author - Bapu Bordekar** 
 
 The Retail Sales Analysis project focuses on exploring and analyzing retail transaction data using SQL to derive meaningful business insights. The dataset contains detailed sales records, including attributes such as the sale date, total sales amount, product details, and other relevant business indicators. The goal is to identify sales patterns, evaluate monthly performance, and determine high-performing periods for strategic decision-making.
 
